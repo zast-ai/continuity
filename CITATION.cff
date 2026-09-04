@@ -13,6 +13,7 @@ year: 2026
 date-released: 2026-09-04
 version: 1.0.0
 license: MIT
+repository-code: "https://github.com/zast-ai/continuity"
 preferred-citation:
   type: article
   title: "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls"
