@@ -1,0 +1,3 @@
+operation,iterations,p50_ms,p95_ms,mean_ms
+proof_verification_only,400,4.2572825,4.86118005,4.35686618
+end_to_end_with_transition_signing,400,7.3448795,9.138311149999993,7.6482629725

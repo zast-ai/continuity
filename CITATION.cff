@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this artifact."
+title: "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls"
+type: software
+authors:
+  - family-names: "Zheng"
+    given-names: "Chris"
+    email: "chris@zast.ai"
+  - family-names: "Yang"
+    given-names: "Geng"
+    email: "geng@zast.ai"
+year: 2026
+date-released: 2026-09-04
+version: 1.0.0
+license: MIT
+preferred-citation:
+  type: article
+  title: "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls"
+  authors:
+    - family-names: "Zheng"
+      given-names: "Chris"
+      email: "chris@zast.ai"
+    - family-names: "Yang"
+      given-names: "Geng"
+      email: "geng@zast.ai"
+  year: 2026

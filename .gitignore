@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+results_quick/

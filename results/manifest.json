@@ -1,0 +1,20 @@
+{
+  "scenarios": 3460,
+  "attack_instances": 2560,
+  "fault_classes": 32,
+  "fault_domain_classes": 128,
+  "benign_scenarios": 700,
+  "typed_release_scenarios": 300,
+  "ambiguous_scenarios": 200,
+  "system_scenario_runs": 24220,
+  "systems": [
+    "PassThrough",
+    "ToolAllowlist",
+    "GatewayPolicy",
+    "ProvenanceGateway",
+    "EffectBoundPermit",
+    "Gateway+Finality",
+    "CONTINUITY"
+  ],
+  "quick": false
+}
